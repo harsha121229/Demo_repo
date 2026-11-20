@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Forgot Your Password",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "hg1BN98C4EKqsxSL877jxA",
+  "Reference": "6IEhdJczSU-OFIGKBl0Q1Q/hg1BN98C4EKqsxSL877jxA",
+  "ParentRef": "6IEhdJczSU-OFIGKBl0Q1Q/p0DRMnc8f06QZPah_i8GzQ",
+  "Created": "2026-11-13T06:13:16.5765356Z",
+  "Updated": "2026-11-13T06:13:16.5765356Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

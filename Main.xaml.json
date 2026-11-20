@@ -1,0 +1,21 @@
+{
+  "DisplayName": "Acme_WIID",
+  "Tooltip": "Acme_UserName_Password",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "UserName_Password",
+      "DisplayName": "UserName_Password",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
