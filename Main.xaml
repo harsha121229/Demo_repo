@@ -111,7 +111,7 @@
       <AssemblyReference>WindowsBase</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Acme_UserName_Password" DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="668,2198" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Acme_UserName_Password" DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="668,2374.6666666666665" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -301,10 +301,17 @@
         </uix:TargetApp>
       </uix:NApplicationCard.TargetApp>
     </uix:NApplicationCard>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="488,167.33333333333334" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info">
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="488,176.66666666666666" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info">
       <ui:LogMessage.Message>
         <InArgument x:TypeArguments="x:Object">
           <CSharpValue x:TypeArguments="x:Object" sap2010:WorkflowViewState.IdRef="CSharpValue`1_11">"Added Items to the queue"</CSharpValue>
+        </InArgument>
+      </ui:LogMessage.Message>
+    </ui:LogMessage>
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="488,167.33333333333334" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info">
+      <ui:LogMessage.Message>
+        <InArgument x:TypeArguments="x:Object">
+          <CSharpValue x:TypeArguments="x:Object" sap2010:WorkflowViewState.IdRef="CSharpValue`1_12">"Pocess Is SucessFull"</CSharpValue>
         </InArgument>
       </ui:LogMessage.Message>
     </ui:LogMessage>
